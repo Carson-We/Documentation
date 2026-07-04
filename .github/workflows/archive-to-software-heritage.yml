@@ -4,8 +4,9 @@
 name: Achive 🗃️ repository to Software Heritage
 
 on:
-  release:
-    types: [created]
+  push:
+    branches:
+      - main
 
 jobs:
   swh-archive:
@@ -13,4 +14,3 @@ jobs:
     steps:
     - name: Save repository to Software Heritage
       uses: sdruskat/swh-save-action@v1.0.1
-

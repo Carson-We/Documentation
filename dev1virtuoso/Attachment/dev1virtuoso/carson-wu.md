@@ -31,7 +31,7 @@ If you are seeking a young, talented enthusiast in the realms of AI and ML to co
 - [LinkedIn](https://www.linkedin.com/in/carson-wu-34a615325/)
 - [Linktree](https://linktr.ee/carsonwe)
 - [ORCID](https://orcid.org/0009-0004-2238-8912)
-- [Phone](tel:85263078780)
+- Phone: +852 6307 8780
 - [Reddit](https://www.reddit.com/user/carson_we/)
 - [Signal](https://signal.me/#eu/os05Q0OzC3s1NRRYvDNmobxTzCq1SPfX0ReOgDSQQbju04OeyaRG3rHClOwaf_m2)
 - [Telegram](https://telegram.me/dev1virtuoso)
